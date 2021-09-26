@@ -26,3 +26,5 @@ The table below shows the days of the challenge with the code notebook and youtu
 | Day 1  | [Notebook](https://github.com/CodeBoxOriginal/100DaysOfPythonCode/blob/main/Day%201%20-%20Getting%20Started.ipynb)  | [Video](https://www.youtube.com/watch?v=bJ03_QgiaM0&t=8s) |
 | Day 2  | [Notebook](https://github.com/CodeBoxOriginal/100DaysOfPythonCode/blob/main/Day%202%20-%20Playing%20With%20Variables.ipynb)  | [Video](https://www.youtube.com/watch?v=GPqwauS6gCU) |
 | Day 3  | [Notebook](https://github.com/CodeBoxOriginal/100DaysOfPythonCode/blob/main/Day%203%20-%20Lists%20And%20Dictionaries.ipynb) | [Coming Soon]() |
+| Day 4  | [Notebook](https://github.com/CodeBoxOriginal/100DaysOfPythonCode/blob/main/Day%204%20-%20What%20If.ipynb) | [Coming Soon]() |
+| Day 5  | [Notebook](https://github.com/CodeBoxOriginal/100DaysOfPythonCode/blob/main/Day%205%20-%20Dictionaries.ipynb) | [Coming Soon]() |
